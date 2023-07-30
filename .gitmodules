@@ -1,3 +1,7 @@
 [submodule "app/src/main/jni/moonlight-core/moonlight-common-c"]
 	path = app/src/main/jni/moonlight-core/moonlight-common-c
 	url = https://github.com/moonlight-stream/moonlight-common-c.git
+[submodule "app/src/main/jni/google-oboe/repository"]
+	path = app/src/main/jni/google-oboe/repository
+	url = https://github.com/google/oboe.git
+	branch = 1.7-stable
